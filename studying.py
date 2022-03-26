@@ -1,7 +1,7 @@
 from asyncore import loop
 
 
-x, y, z = "Maik", "Gabriela", "Lindos"                         #this is for different variables
+x, y, z = "Jaden", "Dorkes", "Kyle"                         #this is for different variables
 
 print (x, y, z) 
  
